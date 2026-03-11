@@ -3,7 +3,7 @@ class ArrayList{
    
    // This is "Hello App Program"
    
-    string msg = "This is Dev Branch";
+    String msg = "This is Dev Branch";
 	
 	system.out.println(msg);
 	}
